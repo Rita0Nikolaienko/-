@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+.font-700{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(38, 95, 16);
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(54, 163, 48);
+}
+.font-500{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(44, 88, 18);
+    font-weight: bold;
+    padding: 10px;
+}
+.font-300{
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    line-height: 18px;
+}
+div{
+    background-color: rgb(245, 220, 187);
+    border-radius: 10px;
+}
